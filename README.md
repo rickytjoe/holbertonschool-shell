@@ -1,1 +1,1 @@
-# holbertonschool-shell
+This project is about shell basics
