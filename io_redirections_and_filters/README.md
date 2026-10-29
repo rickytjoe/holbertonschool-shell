@@ -2,6 +2,7 @@ Shell, I/O Redirections and Filters
 
 This directory contains Bash scripts developed as part of the Holberton Scholl Shell project.
 
+```
 0-hello_world
 1-confused_smiley
 2-hellofile
@@ -29,3 +30,5 @@ This directory contains Bash scripts developed as part of the Holberton Scholl S
 24-gifs
 25-acrostic
 26-the_biggest_fan
+```
+
