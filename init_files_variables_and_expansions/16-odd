@@ -1,2 +1,2 @@
 #!/bin/bash
-perl -ne 'print if $. % 2 == 1'
+perl -ne 'print((split)[0], "\n") if $. % 2'
